@@ -1,5 +1,12 @@
+
+
+
 .App {
   text-align: center;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .App-logo {
